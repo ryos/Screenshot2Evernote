@@ -1,0 +1,21 @@
+(c) Copyright 2011 Ryo Sode. All Rights Reserved.
+
+Application: Screenshot2Evernote
+Description:
+	AppleScript workflow automation applet
+		1. Initiates interactive screenshot
+		2. Once the screenshot is captured, prompts you to enter the title
+		3. 
+
+Background:
+	I am hooked on Evernote. 
+	I am also hooked on taking screenshots as a reminder to myself. 
+	I found myself saving screenshots in Evernote often. 
+	... hence came this script.
+
+Credits:
+	Author: Ryo Sode
+	Bruce Phillips(?): joinList function adopted from http://macscripter.net/viewtopic.php?id=18379
+
+Contact:
+	If you need a help with the script, email me at ryos[at]mac.com
